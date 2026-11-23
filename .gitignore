@@ -11,3 +11,4 @@ backend/test-results/
 questions/ANSWERS*
 
 .env
+/node_modules/
